@@ -1,1 +1,1 @@
-# SMS_Classifier
+# SMS_Classifier_Naive_bayes
